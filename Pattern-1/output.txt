@@ -1,0 +1,5 @@
+Enter a number between 1 to 9 : 4
+   1
+  121
+ 12321
+1234321
